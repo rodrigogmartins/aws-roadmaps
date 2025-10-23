@@ -1,150 +1,190 @@
-# 🤖 AWS Certified AI Practitioner – Roadmap (2 Meses)
+# 🤖 AWS Certified AI Practitioner – Roadmap
 
-> ⚠️ **Disclaimer:** Este roteiro é uma sugestão baseada no curso do **Stéphane Maarek (Udemy)** e em materiais oficiais da AWS.  
+> ⚠️ **Disclaimer:** Este roteiro é uma sugestão baseada em minhas experiências pessoais em preparações para provas AWS.  
 > Adapte conforme sua disponibilidade, experiência e ritmo de aprendizado.  
 > Este conteúdo é **não oficial** e visa apenas apoiar seus estudos.
 
 ---
 
 ## 🎯 Objetivo
+
 Concluir o estudo e estar apto para realizar o exame **AWS Certified AI Practitioner (AIF-C01)**, compreendendo fundamentos de **IA, ML, GenAI e serviços AWS relacionados** (Bedrock, SageMaker, etc.).
 
 ---
 
-## 🧩 Estrutura do curso-base
-Curso referência:  
-👉 [AWS Certified AI Practitioner (AIF-C01) – Stéphane Maarek (Udemy)](https://www.udemy.com/course/aws-certified-ai-practitioner/)
+## 🧩 Materiais
 
-O conteúdo cobre:
-- Fundamentos de IA, ML e GenAI  
-- Serviços AWS (Bedrock, SageMaker, Lex, Polly, Transcribe, Rekognition etc.)  
-- Modelos fundacionais e ética em IA  
-- Casos práticos e boas práticas para o exame
+- [**Guia do exame AIF-C01**](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/pt_BR/certification/approved/pdfs/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
 
----
+- [**Material de estudos - AWS Certified AI Practitioner AIF-C01 – Stéphane Maarek (Udemy)**](https://www.udemy.com/course/aws-ai-practitioner-certified/)
 
-## 🗓️ **Cronograma de 8 semanas**
+- [**Simulados - AWS Certified AI Practitioner AIF-C01 – Stéphane Maarek (Udemy)**](https://www.udemy.com/course/practice-exams-aws-certified-ai-practitioner)
 
-### 📆 **Semana 1 – Fundamentos de IA e Machine Learning**
-- [ ] Dia 1–2: Introdução à certificação e visão geral da AWS AI Practitioner  
-- [ ] Dia 3–4: Conceitos de IA, Machine Learning e Deep Learning  
-- [ ] Dia 5: Tipos de aprendizado (supervisionado, não supervisionado, reforço)  
-- [ ] Dia 6–7: Ética em IA e práticas responsáveis  
-
-**Materiais:**
-- Seções 1–3 do curso (Introdução e Fundamentos)
-- [AWS AI Ethics Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/responsible-ai-on-aws/responsible-ai-on-aws.html)
+- [**Agendamento do Exame**](https://aws.amazon.com/certification/)
 
 ---
 
-### 📆 **Semana 2 – Fundamentos de IA Generativa e LLMs**
-- Dia 8–9: Conceitos de IA Generativa e Large Language Models (LLMs)  
-- Dia 10–11: Famílias de modelos (GPT, Claude, Titan, etc.)  
-- Dia 12–13: Prompt Engineering e limitações de LLMs  
-- Dia 14: Revisão e quiz do curso  
+## 📚 Sobre o Exame
 
-**Materiais:**
-- Seções 4–5 do curso  
-- [AWS Bedrock Overview](https://aws.amazon.com/bedrock/)  
-- [Prompt Engineering Basics (AWS)](https://aws.amazon.com/what-is/prompt-engineering/)
+Abaixo vou resumir algumas das principais informações sobre a realização da prova, essas informações, além de mais detalhes, podem ser encontrados diretamente no [**Guia do exame AIF-C01**](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/pt_BR/certification/approved/pdfs/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf).
 
----
+### O que o exame valida?
 
-### 📆 **Semana 3 – AWS AI/ML Stack e Serviços Core**
-- Dia 15–16: AWS AI Stack Overview  
-- Dia 17–18: Amazon SageMaker – Fundamentos  
-- Dia 19–20: SageMaker Studio e AutoPilot  
-- Dia 21: Revisão prática via console (Free Tier)  
+O exame valida a capacidade do candidato de concluir as seguintes tarefas:
 
-**Materiais:**
-- Seções 6–8 do curso  
-- [AWS SageMaker Docs](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
+- Entender os conceitos, os métodos e as estratégias de IA, ML e IA generativa em geral e na AWS.
 
----
+- Entender o uso apropriado de tecnologias de IA/ML e IA generativa para fazer perguntas relevantes na organização à qual o candidato pertence.
 
-### 📆 **Semana 4 – Serviços de IA Pré-Treinados**
-- Dia 22–23: Amazon Rekognition (visão computacional)  
-- Dia 24–25: Amazon Polly e Transcribe (voz e texto)  
-- Dia 26–27: Amazon Comprehend (NLP)  
-- Dia 28: Revisão de todos os serviços pré-treinados  
+- Determinar os tipos corretos de tecnologia de IA/ML que devem ser aplicadas a casos de uso específicos.
 
-**Materiais:**
-- Seções 9–11 do curso  
-- [AWS AI Services Overview](https://aws.amazon.com/machine-learning/ai-services/)
+- Usar tecnologias de IA, ML e IA generativa com responsabilidade
 
----
+### Conhecimento prévio recomendado
 
-### 📆 **Semana 5 – IA Generativa na AWS**
-- Dia 29–30: Amazon Bedrock em detalhe  
-- Dia 31–32: Integração com APIs e modelos foundation  
-- Dia 33–34: Criação de agentes e fluxos de GenAI  
-- Dia 35: Hands-on e revisão  
+Apesar das certificações AWS não possuirem ordem obrigatória para realização, as provas podem "pressupor" algum nível de conhecimento em determinado assunto.
 
-**Materiais:**
-- Seções 12–13 do curso  
-- [AWS Bedrock Docs](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html)
+Abaixo deixo uma lista declarada na documentação oficial da AWS para o caso da certificação de AI Practitioner.
 
----
+Caso você não se sinta tão confiante em algum dos temas,é importante revisar e tirar dúvidas para a realização da prova, mesmo que em um primeiro momento pareça "fora do escopo".
 
-### 📆 **Semana 6 – Segurança, Custos e Boas Práticas**
-- Dia 36–37: Gerenciamento de acesso (IAM, Bedrock policies)  
-- Dia 38–39: Custos e pricing em IA (SageMaker, Bedrock)  
-- Dia 40–41: Monitoramento e governança em IA  
-- Dia 42: Revisão geral + Quiz  
+- Familiaridade com os principais serviços da AWS (por exemplo, Amazon EC2, Amazon S3, AWS Lambda e Amazon SageMaker) e casos de uso dos principais serviços da AWS.
 
-**Materiais:**
-- Seções 14–15 do curso  
-- [AWS AI Governance Framework](https://aws.amazon.com/ai/responsible-ai/)
+- Familiaridade com o modelo de responsabilidade compartilhada da AWS referente à segurança e conformidade na nuvem AWS.
+
+- Familiaridade com o AWS Identity and Access Management (IAM) para proteger e controlar o acesso aos recursos da AWS.
+
+- Familiaridade com a infraestrutura global da AWS, incluindo os conceitos de Regiões AWS, Zonas de Disponibilidade e locais da borda.
+
+- Familiaridade com os modelos de preços de serviços da AWS
+
+### Conteúdo
+
+O exame tem os seguintes domínios do conteúdo e ponderações:
+
+- Domínio 1: **Fundamentos de IA e ML** (20% do conteúdo pontuado)
+
+- Domínio 2: **Fundamentos de IA generativa** (24% do conteúdo pontuado)
+
+- Domínio 3: **Aplicações de modelos de base** (28% do conteúdo pontuado)
+
+- Domínio 4: **Diretrizes de IA responsável** (14% do conteúdo pontuado)
+
+- Domínio 5: **Segurança, conformidade e governança para soluções de IA** (14% do conteúdo pontuado)
 
 ---
 
-### 📆 **Semana 7 – Revisão completa**
-- Dia 43–45: Revisar todos os tópicos do curso  
-- Dia 46–47: Revisar anotações e flashcards  
-- Dia 48–49: Realizar 1º simulado completo (Udemy)  
-- Dia 50: Revisar o simulado, anotando temas fracos  
+## 🧠 Dicas Gerais
 
----
-
-### 📆 **Semana 8 – Ciclo de simulação e reforço**
-> 🌀 Estratégia: **simular → revisar → reforçar → repetir**
-
-| Dia | Ação | Foco |
-|-----|------|------|
-| 51 | Simulado 1 | Realizar o simulado completo (Udemy ou Tutorials Dojo) |
-| 52 | Revisão | Analisar erros e revisar anotações |
-| 53 | Revisão focalizada | Reassistir seções do curso com mais erros |
-| 54 | Simulado 2 | Novo simulado com foco em tempo real |
-| 55 | Revisão | Comparar desempenho e revisar conceitos críticos |
-| 56 | Simulado 3 | Último simulado (condição real de exame) |
-| 57 | Descanso + leitura leve (Whitepapers) |
-| 58–60 | Revisão final e agendar exame |
-
----
-
-## 🧠 Dicas Finais
 - 💬 Faça **resumos semanais** e use flashcards (ex: Anki)  
 - 📘 Leia os **whitepapers oficiais da AWS** sobre IA e ML  
 - ⚙️ Explore o **AWS Free Tier** para praticar SageMaker e Bedrock  
 - 📅 Mantenha um ritmo constante — 1h por dia é suficiente  
 - 🎯 Priorize **compreensão conceitual**, não decoreba  
 
----
-
-## 📚 Recursos recomendados
-- 🎥 [Udemy – Stéphane Maarek](https://www.udemy.com/course/aws-certified-ai-practitioner/)  
-- 📗 [AWS Skill Builder – AI Practitioner](https://skillbuilder.aws/)  
-- 📄 [AWS AI Services Docs](https://aws.amazon.com/machine-learning/ai-services/)  
-- 🧩 [Exam Readiness: AWS AI Practitioner](https://aws.amazon.com/training/)  
+Se você quiser se aprofundar em algum tema ou buscar uma outra fonte de materiais, considere acessar a plataforma [**Deeplearning.AI**](https://learn.deeplearning.ai/), lá você encontra diversos cursos gratuitos e de qualidade.
 
 ---
 
-## ✅ Próximo passo
-Após a conclusão:
-1. Agende o exame via [AWS Certification Portal](https://aws.amazon.com/certification/)  
-2. Continue os estudos rumo ao **AWS Machine Learning – Specialty** 🚀
+## 🗓️ **Cronograma de estudos**
+
+Neste tópico, irei deixar uma sugestão de cronograma de estudos.
+
+As seções mencionadas, são todas referentes ao [**Material de estudos - AWS Certified AI Practitioner AIF-C01 – Stéphane Maarek (Udemy)**](https://www.udemy.com/course/aws-ai-practitioner-certified/).
+
+Em geral, cada seção possui um teste no final, recomendo que só avence para uma próxima seção caso consiga nota superior a 80%. Caso erre alguma questão, aproveite as explicações oferecidas na plataforma, reveja o material, consulte o ChatGPT, colega ou pesquise no Google, mas **NÃO DEIXE OS ERROS PASSAREM BATIDOS**.
+
+Sem dúvidas o curso ajuda bastante, mas **evite apenas ficar olhando slides e ouvindo as explicações** seja curioso, procure cases de uso pro produto, arquiteturas reais, use a imaginação para pensar em casos de uso para essas ferramentas, faça alguma POC, execute os serviços em sua conta AWS pessoal, mais que a badge, **a certificação é sobre obter o conhecimento e familiaridade com a cloud AWS**.
+
+Por fim, anote tudo em um resumo em um editor de texto ou à mão se preferir, os resumos serão muito importantes, principalmente no momento dos simulados.
+
+### 📆 **Semana 1**
+
+- **Dia 1**: Ler o [**Guia do exame AIF-C01**](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/pt_BR/certification/approved/pdfs/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf). Entender o escopo da prova, principais conhecimentos cobrados e dinâmica dos exames AWS. \
+Introdução ao curso (Seções 1, 2 e 4).
+
+- **Dia 2**: Introdução à AWS e Computação Cloud (Seção 3)
+
+- **Dias 3 - 4 - 5**: Conceitos de IA, Machine Learning e Deep Learning e Tipos de aprendizado (Seção 8)
+
+- **Dia 6**: Prompt Engineering (Seção 6)
+
+- **Dia 7**: Revisar os estudos da semana a partir do resumo.
+
+**Materiais de apoio:**
+  
+- [Prompt Engineering Basics (AWS)](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Curso gratuito de Prompt Engineering pra Devs](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/information)
+
+---
+
+### 📆 **Semana 2**
+
+- **Dia 8**: Desafios e responsabilidades da IA (Seção 11)
+
+- **Dia 9**: Amazon Q (Seção 7)
+
+- **Dia 10**: Amazon SageMaker (Seção 10)
+
+- **Dias 11 - 12 - 13**: Serviços de Ssegurança AWS (Seção 12)
+
+- **Dia 14**: Revisar os estudos da semana a partir do resumo.
+
+---
+
+### 📆 **Semana 3**
+
+- **Dias 15 - 16**: Serviços de IA Gerenciados da AWS (Seção 9)
+
+- **Dias 17 - 18 - 19**: Amazon Bedrock (Seção 5)
+
+- **Dia 20 - 21**: Revisão completa dos conteúdos a partir dos resumos.
+
+**Materiais:**
+  
+Caso você queira se aprofundar em alguns conceitos, principalmente no RAG, recomendo este curso:
+
+- [Curso gratuito de Retrieval Augmented Generation (RAG)](https://learn.deeplearning.ai/courses/retrieval-augmented-generation/information)
+
+O curso é totalmente opcional, o material disposto na Udemy é suficiente para a realização da prova.
+
+---
+
+### 📆 **Semana 4**
+
+- **Dia 22**: Realizar simulado (Seção 13).\
+Aqui vai uma recomendação pessoal:
+
+    - Se o a nota obtida no simulado for **superior a 80%**, agende a prova.
+    - Se a nota obtida no simulado for **inferior a 80%**, invista uns dias revisando seu resumo e o curso, após isso, repita o simulado. Faça o processo até alcançar esta margem de nota, isso ajuda a garantir um nível de confiança maior no momento da prova.
+
+> ⚠️ **Se você marcou a prova:** faltando aproximadamente 2 semanas para a prova, comece a executar o processo abaixo, realizando esse intensivo de simulados ajuda a se acostumar com o ritmo da prova, além de ajudar a manter o conteúdo fresco na mente.
+
+- **Dia 23**: Revisar simulado, verificar as explicações das perguntas certas e erradas. Ajustar o resumo caso necessário. Estudar **apenas** o tópico de maior dificuldade nesse momento e adicioná-lo ao resumo.
+
+- **Dia 24**: Realizar o *Practice Test #1* do  [**material de Simulados - Stéphane Maarek (Udemy)**](https://www.udemy.com/course/practice-exams-aws-certified-ai-practitioner)
+
+- **Dia 25**: Revisar simulado, verificar as explicações das perguntas certas e erradas. Ajustar o resumo caso necessário. Estudar **apenas** o tópico de maior dificuldade nesse momento e adicioná-lo ao resumo.
+
+- **Dia 26**: Realizar o *Practice Test #2* do  [**material de Simulados - Stéphane Maarek (Udemy)**](https://www.udemy.com/course/practice-exams-aws-certified-ai-practitioner)
+
+- **Dia 27**: Revisar simulado, verificar as explicações das perguntas certas e erradas. Ajustar o resumo caso necessário. Estudar **apenas** o tópico de maior dificuldade nesse momento e adicioná-lo ao resumo.
+
+- **Dia 28**: Realizar o *Practice Test #3* do  [**material de Simulados - Stéphane Maarek (Udemy)**](https://www.udemy.com/course/practice-exams-aws-certified-ai-practitioner)
+
+---
+
+### 📆 **Semana 5**
+
+- **Dia 28**: Revisar simulado, verificar as explicações das perguntas certas e erradas. Ajustar o resumo caso necessário. Estudar **apenas** o tópico de maior dificuldade nesse momento e adicioná-lo ao resumo.
+
+- **Dia 29**: Realizar o *Practice Test #4* do  [**material de Simulados - Stéphane Maarek (Udemy)**](https://www.udemy.com/course/practice-exams-aws-certified-ai-practitioner)
+
+- **Dia 30**: Revisar simulado, verificar as explicações das perguntas certas e erradas. Ajustar o resumo caso necessário. Estudar **apenas** o tópico de maior dificuldade nesse momento e adicioná-lo ao resumo.
+
+- **Dia 31**: Revisão final.
 
 ---
 
 © 2025 – Comunidade AWS Roadmaps  
-Distribuído sob [licença MIT](../../LICENSE)
+Distribuído sob [**licença MIT**](../../LICENSE)
