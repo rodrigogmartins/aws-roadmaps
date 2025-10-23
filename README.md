@@ -1,16 +1,18 @@
 # 🌩️ AWS Certification Roadmaps
 
-> 📘 Este repositório contém roteiros de estudo gratuitos e organizados para certificações AWS.
->
-> ⚠️ **Disclaimer:** Estes materiais são sugestões baseadas em fontes oficiais e na experiência da comunidade. Ajuste conforme seu ritmo e conhecimento prévio.
+![Tipo do Projeto](https://img.shields.io/badge/Projeto-Roadmaps-blue)
+![Foco](https://img.shields.io/badge/Foco-AWS%20Certifications-orange)
 
----
+![Status](https://img.shields.io/badge/Status-Ativo-success)
+![Licença](https://img.shields.io/badge/Licença-MIT-lightgrey)
+
+📘 Este repositório contém roteiros de estudo gratuitos e organizados para certificações AWS.
+
+⚠️ **Disclaimer:** Estes materiais são sugestões baseadas em fontes oficiais e na experiência da comunidade. Ajuste conforme seu ritmo e conhecimento prévio.
 
 ## ⭐ Dê uma Estrela!
 
 Se você gostou do meu projeto e deseja me ajudar, deixe uma estrela, por favor. Obrigado!
-
----
 
 ## 🧭 Índice de Roadmaps
 
