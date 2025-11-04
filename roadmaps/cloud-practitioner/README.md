@@ -1,5 +1,7 @@
 # 🤖 AWS Certified Cloud Practitioner – Roadmap
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.en.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./README.md)
+
 > ⚠️ **Disclaimer:** Este roteiro é uma sugestão baseada em minhas experiências pessoais em preparações para provas AWS.  
 > Adapte conforme sua disponibilidade, experiência e ritmo de aprendizado.  
 > Este conteúdo é **não oficial** e visa apenas apoiar seus estudos.
