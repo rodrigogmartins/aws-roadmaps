@@ -20,8 +20,8 @@ If you liked this project and want to support it, please leave a star. Thank you
 
 | Certification                        | Description                                            | Link                                                 |
 | ------------------------------------ | ------------------------------------------------------ | ---------------------------------------------------- |
-| 🤖 AWS Certified Cloud Practitioner | Introduction to AWS services and fundamental concepts. | [Ver roadmap](roadmaps/cloud-practitioner/README.en.md) |
-| 🤖 AWS Certified AI Practitioner    | Introduction to AI services and concepts on AWS.       | [Ver roadmap](roadmaps/ai-practitioner/README.en.md)    |
+| 🤖 AWS Certified Cloud Practitioner | Introduction to AWS services and fundamental concepts. | [View roadmap](roadmaps/cloud-practitioner/README.en.md) |
+| 🤖 AWS Certified AI Practitioner    | Introduction to AI services and concepts on AWS.       | [View roadmap](roadmaps/ai-practitioner/README.en.md)    |
 
 ---
 
